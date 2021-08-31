@@ -1,0 +1,86 @@
+solid Untitled-595d3f70
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 93.0 85.0 0.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 85.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 93.0 85.0 0.0
+    vertex 93.0 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 93.0 0.0 0.6
+    vertex 0.0 85.0 0.6
+    vertex 0.0 0.0 0.6
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 85.0 0.6
+    vertex 93.0 0.0 0.6
+    vertex 93.0 85.0 0.6
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 85.0 0.6
+    vertex 0.0 0.0 0.0
+    vertex 0.0 0.0 0.6
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 85.0 0.6
+    vertex 0.0 85.0 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 0.0 85.0 0.6
+    vertex 93.0 85.0 0.0
+    vertex 0.0 85.0 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 93.0 85.0 0.0
+    vertex 0.0 85.0 0.6
+    vertex 93.0 85.0 0.6
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 93.0 85.0 0.0
+    vertex 93.0 0.0 0.6
+    vertex 93.0 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 93.0 0.0 0.6
+    vertex 93.0 85.0 0.0
+    vertex 93.0 85.0 0.6
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 93.0 0.0 0.6
+    vertex 0.0 0.0 0.0
+    vertex 93.0 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 93.0 0.0 0.6
+    vertex 0.0 0.0 0.6
+  endloop
+endfacet
+endsolid Untitled-595d3f70

@@ -1,0 +1,86 @@
+solid тест-полоска
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 1.9999999999999998 100.0 0.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 100.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 1.9999999999999998 100.0 0.0
+    vertex 1.9999999999999998 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 1.9999999999999998 0.0 0.3
+    vertex 0.0 100.0 0.3
+    vertex 0.0 0.0 0.3
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 100.0 0.3
+    vertex 1.9999999999999998 0.0 0.3
+    vertex 1.9999999999999998 100.0 0.3
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 1.9999999999999998 0.0 0.3
+    vertex 0.0 0.0 0.0
+    vertex 1.9999999999999998 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 1.9999999999999998 0.0 0.3
+    vertex 0.0 0.0 0.3
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 100.0 0.3
+    vertex 0.0 0.0 0.0
+    vertex 0.0 0.0 0.3
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 100.0 0.3
+    vertex 0.0 100.0 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 0.0 100.0 0.3
+    vertex 1.9999999999999998 100.0 0.0
+    vertex 0.0 100.0 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 1.9999999999999998 100.0 0.0
+    vertex 0.0 100.0 0.3
+    vertex 1.9999999999999998 100.0 0.3
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 1.9999999999999998 100.0 0.0
+    vertex 1.9999999999999998 0.0 0.3
+    vertex 1.9999999999999998 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 1.9999999999999998 0.0 0.3
+    vertex 1.9999999999999998 100.0 0.0
+    vertex 1.9999999999999998 100.0 0.3
+  endloop
+endfacet
+endsolid тест-полоска

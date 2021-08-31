@@ -1,0 +1,226 @@
+solid Губка-Подвижная
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 0.0 5.0 50.0
+    vertex -12.5 5.0 0.0
+    vertex 0.0 5.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex -12.5 5.0 0.0
+    vertex 0.0 5.0 50.0
+    vertex -12.5 5.0 50.0
+  endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+  outer loop
+    vertex -1.9999999999999998 23.0 50.0
+    vertex 0.0 23.0 0.0
+    vertex -1.9999999999999998 23.0 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+  outer loop
+    vertex 0.0 23.0 0.0
+    vertex -1.9999999999999998 23.0 50.0
+    vertex 0.0 23.0 50.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 3.0 20.0 0.0
+    vertex 3.0 0.0 50.0
+    vertex 3.0 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 3.0 0.0 50.0
+    vertex 3.0 20.0 0.0
+    vertex 3.0 20.0 50.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 3.0 0.0 50.0
+    vertex 0.0 0.0 0.0
+    vertex 3.0 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 3.0 0.0 50.0
+    vertex 0.0 0.0 50.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 5.0 50.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 0.0 50.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 5.0 50.0
+    vertex 0.0 5.0 0.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex -12.5 8.0 50.0
+    vertex -12.5 5.0 0.0
+    vertex -12.5 5.0 50.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex -12.5 5.0 0.0
+    vertex -12.5 8.0 50.0
+    vertex -12.5 8.0 0.0
+  endloop
+endfacet
+facet normal -0.8192319205190405 0.5734623443633284 0.0
+  outer loop
+    vertex -1.9999999999999998 23.0 50.0
+    vertex -12.5 8.0 0.0
+    vertex -12.5 8.0 50.0
+  endloop
+endfacet
+facet normal -0.8192319205190405 0.5734623443633284 0.0
+  outer loop
+    vertex -12.5 8.0 0.0
+    vertex -1.9999999999999998 23.0 50.0
+    vertex -1.9999999999999998 23.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 23.0 50.0
+    vertex -1.9999999999999998 23.0 50.0
+    vertex -0.4999999999999999 19.499999999999996 50.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 3.0 0.0 50.0
+    vertex 0.0 5.0 50.0
+    vertex 0.0 0.0 50.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 5.0 50.0
+    vertex -12.5 8.0 50.0
+    vertex -12.5 5.0 50.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex -12.5 8.0 50.0
+    vertex 0.0 5.0 50.0
+    vertex -1.9999999999999998 23.0 50.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex -1.9999999999999998 23.0 50.0
+    vertex 0.0 5.0 50.0
+    vertex -0.4999999999999999 19.499999999999996 50.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex -0.4999999999999999 19.499999999999996 50.0
+    vertex 0.0 5.0 50.0
+    vertex 3.0 20.0 50.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 3.0 20.0 50.0
+    vertex 0.0 5.0 50.0
+    vertex 3.0 0.0 50.0
+  endloop
+endfacet
+facet normal 0.9899494936611667 -0.14142135623730945 -6.234587301938587e-20
+  outer loop
+    vertex 0.0 23.0 0.0
+    vertex -0.4999999999999999 19.499999999999996 50.0
+    vertex -0.4999999999999999 19.499999999999996 0.016985000000022055
+  endloop
+endfacet
+facet normal 0.9899494936611667 -0.14142135623730945 -6.234587301938587e-20
+  outer loop
+    vertex -0.4999999999999999 19.499999999999996 50.0
+    vertex 0.0 23.0 0.0
+    vertex 0.0 23.0 50.0
+  endloop
+endfacet
+facet normal -0.14142135623731 0.9899494936611665 -6.947111565017289e-20
+  outer loop
+    vertex -0.4999999999999999 19.499999999999996 0.016985000000022055
+    vertex 3.0 20.0 50.0
+    vertex 3.0 20.0 0.0
+  endloop
+endfacet
+facet normal -0.14142135623731 0.9899494936611665 -6.947111565017289e-20
+  outer loop
+    vertex 3.0 20.0 50.0
+    vertex -0.4999999999999999 19.499999999999996 0.016985000000022055
+    vertex -0.4999999999999999 19.499999999999996 50.0
+  endloop
+endfacet
+facet normal 5.9386968949344713e-05 0.00017138393376444708 -0.9999999835503675
+  outer loop
+    vertex 0.0 23.0 0.0
+    vertex -0.4999999999999999 19.499999999999996 0.016985000000022055
+    vertex -1.9999999999999998 23.0 0.0
+  endloop
+endfacet
+facet normal 5.9386968949344713e-05 0.00017138393376444708 -0.9999999835503675
+  outer loop
+    vertex -1.9999999999999998 23.0 0.0
+    vertex -12.5 5.0 0.0
+    vertex -12.5 8.0 0.0
+  endloop
+endfacet
+facet normal 5.9386968949344713e-05 0.00017138393376444708 -0.9999999835503675
+  outer loop
+    vertex -12.5 5.0 0.0
+    vertex -1.9999999999999998 23.0 0.0
+    vertex 0.0 5.0 0.0
+  endloop
+endfacet
+facet normal 5.9386968949344713e-05 0.00017138393376444708 -0.9999999835503675
+  outer loop
+    vertex 0.0 5.0 0.0
+    vertex -1.9999999999999998 23.0 0.0
+    vertex -0.4999999999999999 19.499999999999996 0.016985000000022055
+  endloop
+endfacet
+facet normal 5.9386968949344713e-05 0.00017138393376444708 -0.9999999835503675
+  outer loop
+    vertex 0.0 5.0 0.0
+    vertex -0.4999999999999999 19.499999999999996 0.016985000000022055
+    vertex 3.0 20.0 0.0
+  endloop
+endfacet
+facet normal 5.9386968949344713e-05 0.00017138393376444708 -0.9999999835503675
+  outer loop
+    vertex 0.0 5.0 0.0
+    vertex 3.0 20.0 0.0
+    vertex 0.0 0.0 0.0
+  endloop
+endfacet
+facet normal 5.9386968949344713e-05 0.00017138393376444708 -0.9999999835503675
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 3.0 20.0 0.0
+    vertex 3.0 0.0 0.0
+  endloop
+endfacet
+endsolid Губка-Подвижная

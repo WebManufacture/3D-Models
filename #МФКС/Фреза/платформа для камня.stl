@@ -1,0 +1,114 @@
+solid платформа для камня
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 10.0 0.0 -3.0
+    vertex 0.0 0.0 0.0
+    vertex -10.78948 0.0 -3.0
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 10.0 0.0 -3.0
+    vertex 9.999999999999998 0.0 17.320508075688764
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex -10.78948 0.0 6.22930918241608
+    vertex -10.78948 0.0 -3.0
+    vertex 0.0 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 8.140542039023758e-17
+  outer loop
+    vertex 10.0 10.0 -3.0
+    vertex 9.999999999999998 0.0 17.320508075688764
+    vertex 10.0 0.0 -3.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 8.140542039023758e-17
+  outer loop
+    vertex 9.999999999999998 0.0 17.320508075688764
+    vertex 10.0 10.0 -3.0
+    vertex 9.999999999999998 10.0 17.320508075688764
+  endloop
+endfacet
+facet normal 1.4662015816511074e-16 1.0 -3.594140706561188e-17
+  outer loop
+    vertex -10.78948 10.000000000000004 -3.0
+    vertex 0.0 10.0 0.0
+    vertex 10.0 10.0 -3.0
+  endloop
+endfacet
+facet normal 1.4662015816511074e-16 1.0 -3.594140706561188e-17
+  outer loop
+    vertex 0.0 10.0 0.0
+    vertex -10.78948 10.000000000000004 -3.0
+    vertex -10.78948 10.000000000000004 6.22930918241608
+  endloop
+endfacet
+facet normal 1.4662015816511074e-16 1.0 -3.594140706561188e-17
+  outer loop
+    vertex 9.999999999999998 10.0 17.320508075688764
+    vertex 10.0 10.0 -3.0
+    vertex 0.0 10.0 0.0
+  endloop
+endfacet
+facet normal -1.0 -0.0 -0.0
+  outer loop
+    vertex -10.78948 10.000000000000004 6.22930918241608
+    vertex -10.78948 0.0 -3.0
+    vertex -10.78948 0.0 6.22930918241608
+  endloop
+endfacet
+facet normal -1.0 -0.0 -0.0
+  outer loop
+    vertex -10.78948 0.0 -3.0
+    vertex -10.78948 10.000000000000004 6.22930918241608
+    vertex -10.78948 10.000000000000004 -3.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 10.0 10.0 -3.0
+    vertex -10.78948 0.0 -3.0
+    vertex -10.78948 10.000000000000004 -3.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex -10.78948 0.0 -3.0
+    vertex 10.0 10.0 -3.0
+    vertex 10.0 0.0 -3.0
+  endloop
+endfacet
+facet normal -0.8660254037844387 0.0 0.5000000000000003
+  outer loop
+    vertex 9.999999999999998 10.0 17.320508075688764
+    vertex 0.0 0.0 0.0
+    vertex 9.999999999999998 0.0 17.320508075688764
+  endloop
+endfacet
+facet normal -0.8660254037844387 0.0 0.5000000000000003
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 9.999999999999998 10.0 17.320508075688764
+    vertex 0.0 10.0 0.0
+  endloop
+endfacet
+facet normal 0.49999999999999983 -1.0388211056029484e-17 0.8660254037844389
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex -10.78948 10.000000000000004 6.22930918241608
+    vertex -10.78948 0.0 6.22930918241608
+  endloop
+endfacet
+facet normal 0.49999999999999983 -1.0388211056029484e-17 0.8660254037844389
+  outer loop
+    vertex -10.78948 10.000000000000004 6.22930918241608
+    vertex 0.0 0.0 0.0
+    vertex 0.0 10.0 0.0
+  endloop
+endfacet
+endsolid платформа для камня

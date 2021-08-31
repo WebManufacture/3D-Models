@@ -1,0 +1,170 @@
+solid Губка-Неподвижная
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex -1.9999999999999998 23.0 0.0
+    vertex -4.5 0.0 0.0
+    vertex -4.5 19.999999999999996 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex -4.5 0.0 0.0
+    vertex -1.9999999999999998 23.0 0.0
+    vertex 3.0 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 3.0 0.0 0.0
+    vertex -1.9999999999999998 23.0 0.0
+    vertex 0.0 20.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 20.0 0.0
+    vertex -1.9999999999999998 23.0 0.0
+    vertex 0.0 23.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 3.0 0.0 0.0
+    vertex 0.0 20.0 0.0
+    vertex 3.0 20.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 3.0 0.0 50.0
+    vertex -4.5 19.999999999999996 50.0
+    vertex -4.5 0.0 50.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex -4.5 19.999999999999996 50.0
+    vertex 3.0 0.0 50.0
+    vertex -1.9999999999999998 23.0 50.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex -1.9999999999999998 23.0 50.0
+    vertex 3.0 0.0 50.0
+    vertex 0.0 20.0 50.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 20.0 50.0
+    vertex 3.0 0.0 50.0
+    vertex 3.0 20.0 50.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 23.0 50.0
+    vertex -1.9999999999999998 23.0 50.0
+    vertex 0.0 20.0 50.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 3.0 0.0 50.0
+    vertex -4.5 0.0 0.0
+    vertex 3.0 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex -4.5 0.0 0.0
+    vertex 3.0 0.0 50.0
+    vertex -4.5 0.0 50.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex -4.5 19.999999999999996 50.0
+    vertex -4.5 0.0 0.0
+    vertex -4.5 0.0 50.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex -4.5 0.0 0.0
+    vertex -4.5 19.999999999999996 50.0
+    vertex -4.5 19.999999999999996 0.0
+  endloop
+endfacet
+facet normal -0.7682212795973761 0.6401843996644796 0.0
+  outer loop
+    vertex -1.9999999999999998 23.0 50.0
+    vertex -4.5 19.999999999999996 0.0
+    vertex -4.5 19.999999999999996 50.0
+  endloop
+endfacet
+facet normal -0.7682212795973761 0.6401843996644796 0.0
+  outer loop
+    vertex -4.5 19.999999999999996 0.0
+    vertex -1.9999999999999998 23.0 50.0
+    vertex -1.9999999999999998 23.0 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex -1.9999999999999998 23.0 50.0
+    vertex 0.0 23.0 0.0
+    vertex -1.9999999999999998 23.0 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 0.0 23.0 0.0
+    vertex -1.9999999999999998 23.0 50.0
+    vertex 0.0 23.0 50.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 0.0 23.0 0.0
+    vertex 0.0 20.0 50.0
+    vertex 0.0 20.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 0.0 20.0 50.0
+    vertex 0.0 23.0 0.0
+    vertex 0.0 23.0 50.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 0.0 20.0 50.0
+    vertex 3.0 20.0 0.0
+    vertex 0.0 20.0 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 3.0 20.0 0.0
+    vertex 0.0 20.0 50.0
+    vertex 3.0 20.0 50.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 3.0 20.0 0.0
+    vertex 3.0 0.0 50.0
+    vertex 3.0 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 3.0 0.0 50.0
+    vertex 3.0 20.0 0.0
+    vertex 3.0 20.0 50.0
+  endloop
+endfacet
+endsolid Губка-Неподвижная

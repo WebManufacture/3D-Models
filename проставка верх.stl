@@ -1,0 +1,86 @@
+solid проставка верх
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 33.7 20.000000000000004 0.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 20.000000000000004 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 33.7 20.000000000000004 0.0
+    vertex 33.7 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 33.7 0.0 20.0
+    vertex 0.0 20.000000000000004 20.0
+    vertex 0.0 0.0 20.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 20.000000000000004 20.0
+    vertex 33.7 0.0 20.0
+    vertex 33.7 20.000000000000004 20.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 20.000000000000004 20.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 0.0 20.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 20.000000000000004 20.0
+    vertex 0.0 20.000000000000004 0.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 0.0 20.000000000000004 20.0
+    vertex 33.7 20.000000000000004 0.0
+    vertex 0.0 20.000000000000004 0.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 33.7 20.000000000000004 0.0
+    vertex 0.0 20.000000000000004 20.0
+    vertex 33.7 20.000000000000004 20.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 33.7 20.000000000000004 0.0
+    vertex 33.7 0.0 20.0
+    vertex 33.7 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 33.7 0.0 20.0
+    vertex 33.7 20.000000000000004 0.0
+    vertex 33.7 20.000000000000004 20.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 33.7 0.0 20.0
+    vertex 0.0 0.0 0.0
+    vertex 33.7 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 33.7 0.0 20.0
+    vertex 0.0 0.0 20.0
+  endloop
+endfacet
+endsolid проставка верх

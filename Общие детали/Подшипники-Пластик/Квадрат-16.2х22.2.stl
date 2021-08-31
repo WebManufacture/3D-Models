@@ -1,0 +1,226 @@
+solid Квадрат-16.2х22.2
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 22.2 0.0
+    vertex 3.0 19.200000000000003 0.0
+    vertex 0.0 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 3.0 19.200000000000003 0.0
+    vertex 0.0 22.2 0.0
+    vertex 22.2 22.2 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 3.0 19.200000000000003 0.0
+    vertex 22.2 22.2 0.0
+    vertex 19.2 19.200000000000003 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 19.2 19.200000000000003 0.0
+    vertex 22.2 22.2 0.0
+    vertex 19.2 3.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 3.0 3.0 0.0
+    vertex 22.2 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 3.0 3.0 0.0
+    vertex 0.0 0.0 0.0
+    vertex 3.0 19.200000000000003 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 22.2 0.0 0.0
+    vertex 3.0 3.0 0.0
+    vertex 19.2 3.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 22.2 0.0 0.0
+    vertex 19.2 3.0 0.0
+    vertex 22.2 22.2 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 0.0 0.0 20.0
+    vertex 3.0 3.0 20.0
+    vertex 0.0 22.2 20.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 3.0 3.0 20.0
+    vertex 0.0 0.0 20.0
+    vertex 22.2 0.0 20.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 3.0 3.0 20.0
+    vertex 22.2 0.0 20.0
+    vertex 19.2 3.0 20.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 19.2 3.0 20.0
+    vertex 22.2 0.0 20.0
+    vertex 19.2 19.200000000000003 20.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 0.0 22.2 20.0
+    vertex 3.0 19.200000000000003 20.0
+    vertex 22.2 22.2 20.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 3.0 19.200000000000003 20.0
+    vertex 0.0 22.2 20.0
+    vertex 3.0 3.0 20.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 22.2 22.2 20.0
+    vertex 3.0 19.200000000000003 20.0
+    vertex 19.2 19.200000000000003 20.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 22.2 22.2 20.0
+    vertex 19.2 19.200000000000003 20.0
+    vertex 22.2 0.0 20.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 22.2 20.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 0.0 20.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 22.2 20.0
+    vertex 0.0 22.2 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 0.0 22.2 20.0
+    vertex 22.2 22.2 0.0
+    vertex 0.0 22.2 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 22.2 22.2 0.0
+    vertex 0.0 22.2 20.0
+    vertex 22.2 22.2 20.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 22.2 22.2 0.0
+    vertex 22.2 0.0 20.0
+    vertex 22.2 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 22.2 0.0 20.0
+    vertex 22.2 22.2 0.0
+    vertex 22.2 22.2 20.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 22.2 0.0 20.0
+    vertex 0.0 0.0 0.0
+    vertex 22.2 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 22.2 0.0 20.0
+    vertex 0.0 0.0 20.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 19.2 19.200000000000003 20.0
+    vertex 19.2 3.0 0.0
+    vertex 19.2 3.0 20.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 19.2 3.0 0.0
+    vertex 19.2 19.200000000000003 20.0
+    vertex 19.2 19.200000000000003 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 19.2 19.200000000000003 20.0
+    vertex 3.0 19.200000000000003 0.0
+    vertex 19.2 19.200000000000003 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 3.0 19.200000000000003 0.0
+    vertex 19.2 19.200000000000003 20.0
+    vertex 3.0 19.200000000000003 20.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 3.0 19.200000000000003 0.0
+    vertex 3.0 3.0 20.0
+    vertex 3.0 3.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 3.0 3.0 20.0
+    vertex 3.0 19.200000000000003 0.0
+    vertex 3.0 19.200000000000003 20.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 3.0 3.0 20.0
+    vertex 19.2 3.0 0.0
+    vertex 3.0 3.0 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 19.2 3.0 0.0
+    vertex 3.0 3.0 20.0
+    vertex 19.2 3.0 20.0
+  endloop
+endfacet
+endsolid Квадрат-16.2х22.2

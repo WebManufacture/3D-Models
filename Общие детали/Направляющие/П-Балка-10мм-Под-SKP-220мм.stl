@@ -1,0 +1,198 @@
+solid П-Балка-10мм-Под-SKP
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 10.0 10.0
+    vertex 0.0 7.0 7.5
+    vertex 0.0 7.0 10.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 3.0 10.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 0.0 10.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 3.0 10.0
+    vertex 0.0 3.0 7.5
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 3.0 7.5
+    vertex 0.0 10.0 0.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 10.0 0.0
+    vertex 0.0 3.0 7.5
+    vertex 0.0 7.0 7.5
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 10.0 0.0
+    vertex 0.0 7.0 7.5
+    vertex 0.0 10.0 10.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 220.0 10.0 0.0
+    vertex 220.0 0.0 10.0
+    vertex 220.0 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 220.0 0.0 10.0
+    vertex 220.0 10.0 0.0
+    vertex 220.0 3.0 7.5
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 220.0 3.0 7.5
+    vertex 220.0 10.0 0.0
+    vertex 220.0 7.0 7.5
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 220.0 7.0 7.5
+    vertex 220.0 10.0 0.0
+    vertex 220.0 7.0 10.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 220.0 7.0 10.0
+    vertex 220.0 10.0 0.0
+    vertex 220.0 10.0 10.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 220.0 3.0 10.0
+    vertex 220.0 0.0 10.0
+    vertex 220.0 3.0 7.5
+  endloop
+endfacet
+facet normal 0.0 -0.0 1.0
+  outer loop
+    vertex 220.0 0.0 10.0
+    vertex 0.0 3.0 10.0
+    vertex 0.0 0.0 10.0
+  endloop
+endfacet
+facet normal 0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 3.0 10.0
+    vertex 220.0 0.0 10.0
+    vertex 220.0 3.0 10.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 0.0 3.0 10.0
+    vertex 220.0 3.0 7.5
+    vertex 0.0 3.0 7.5
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 220.0 3.0 7.5
+    vertex 0.0 3.0 10.0
+    vertex 220.0 3.0 10.0
+  endloop
+endfacet
+facet normal 0.0 -0.0 1.0
+  outer loop
+    vertex 220.0 3.0 7.5
+    vertex 0.0 7.0 7.5
+    vertex 0.0 3.0 7.5
+  endloop
+endfacet
+facet normal 0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 7.0 7.5
+    vertex 220.0 3.0 7.5
+    vertex 220.0 7.0 7.5
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 220.0 7.0 10.0
+    vertex 0.0 7.0 7.5
+    vertex 220.0 7.0 7.5
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 0.0 7.0 7.5
+    vertex 220.0 7.0 10.0
+    vertex 0.0 7.0 10.0
+  endloop
+endfacet
+facet normal 0.0 -0.0 1.0
+  outer loop
+    vertex 220.0 7.0 10.0
+    vertex 0.0 10.0 10.0
+    vertex 0.0 7.0 10.0
+  endloop
+endfacet
+facet normal 0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 10.0 10.0
+    vertex 220.0 7.0 10.0
+    vertex 220.0 10.0 10.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 0.0 10.0 10.0
+    vertex 220.0 10.0 0.0
+    vertex 0.0 10.0 0.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 220.0 10.0 0.0
+    vertex 0.0 10.0 10.0
+    vertex 220.0 10.0 10.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 -1.0
+  outer loop
+    vertex 220.0 10.0 0.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 10.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 -1.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 220.0 10.0 0.0
+    vertex 220.0 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 220.0 0.0 10.0
+    vertex 0.0 0.0 0.0
+    vertex 220.0 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 220.0 0.0 10.0
+    vertex 0.0 0.0 10.0
+  endloop
+endfacet
+endsolid П-Балка-10мм-Под-SKP
