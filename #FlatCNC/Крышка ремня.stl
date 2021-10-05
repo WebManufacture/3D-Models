@@ -1,0 +1,198 @@
+solid Крышка ремня
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 100.0 99.5 0.0
+    vertex 0.0 0.4999999999999998 0.0
+    vertex 0.0 39.5 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 0.4999999999999998 0.0
+    vertex 100.0 99.5 0.0
+    vertex 100.0 0.4999999999999998 0.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 100.0 1.9999999999999998 0.9999999999999999
+    vertex 0.0 38.0 0.9999999999999999
+    vertex 0.0 1.9999999999999998 0.9999999999999999
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 38.0 0.9999999999999999
+    vertex 100.0 1.9999999999999998 0.9999999999999999
+    vertex 100.0 98.0 0.9999999999999999
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 39.5 22.0
+    vertex 0.0 38.0 0.9999999999999999
+    vertex 0.0 38.0 22.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 1.9999999999999998 22.0
+    vertex 0.0 0.4999999999999998 0.0
+    vertex 0.0 0.4999999999999998 22.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.4999999999999998 0.0
+    vertex 0.0 1.9999999999999998 22.0
+    vertex 0.0 1.9999999999999998 0.9999999999999999
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.4999999999999998 0.0
+    vertex 0.0 1.9999999999999998 0.9999999999999999
+    vertex 0.0 39.5 0.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 39.5 0.0
+    vertex 0.0 1.9999999999999998 0.9999999999999999
+    vertex 0.0 38.0 0.9999999999999999
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 39.5 0.0
+    vertex 0.0 38.0 0.9999999999999999
+    vertex 0.0 39.5 22.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 100.0 0.4999999999999998 0.0
+    vertex 100.0 1.9999999999999998 0.9999999999999999
+    vertex 100.0 0.4999999999999998 22.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 100.0 1.9999999999999998 0.9999999999999999
+    vertex 100.0 0.4999999999999998 0.0
+    vertex 100.0 99.5 0.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 100.0 1.9999999999999998 0.9999999999999999
+    vertex 100.0 99.5 0.0
+    vertex 100.0 98.0 0.9999999999999999
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 100.0 98.0 0.9999999999999999
+    vertex 100.0 99.5 0.0
+    vertex 100.0 98.0 22.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 100.0 98.0 22.0
+    vertex 100.0 99.5 0.0
+    vertex 100.0 99.5 22.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 100.0 1.9999999999999998 22.0
+    vertex 100.0 0.4999999999999998 22.0
+    vertex 100.0 1.9999999999999998 0.9999999999999999
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 100.0 0.4999999999999998 22.0
+    vertex 0.0 0.4999999999999998 0.0
+    vertex 100.0 0.4999999999999998 0.0
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 0.0 0.4999999999999998 0.0
+    vertex 100.0 0.4999999999999998 22.0
+    vertex 0.0 0.4999999999999998 22.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 100.0 98.0 22.0
+    vertex 0.0 39.5 22.0
+    vertex 0.0 38.0 22.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 39.5 22.0
+    vertex 100.0 98.0 22.0
+    vertex 100.0 99.5 22.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 100.0 0.4999999999999998 22.0
+    vertex 0.0 1.9999999999999998 22.0
+    vertex 0.0 0.4999999999999998 22.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 1.9999999999999998 22.0
+    vertex 100.0 0.4999999999999998 22.0
+    vertex 100.0 1.9999999999999998 22.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 0.0 1.9999999999999998 22.0
+    vertex 100.0 1.9999999999999998 0.9999999999999999
+    vertex 0.0 1.9999999999999998 0.9999999999999999
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 100.0 1.9999999999999998 0.9999999999999999
+    vertex 0.0 1.9999999999999998 22.0
+    vertex 100.0 1.9999999999999998 22.0
+  endloop
+endfacet
+facet normal 0.5144957554275267 -0.8574929257125443 -6.963693113616235e-17
+  outer loop
+    vertex 100.0 98.0 22.0
+    vertex 0.0 38.0 0.9999999999999999
+    vertex 100.0 98.0 0.9999999999999999
+  endloop
+endfacet
+facet normal 0.5144957554275267 -0.8574929257125443 -6.963693113616235e-17
+  outer loop
+    vertex 0.0 38.0 0.9999999999999999
+    vertex 100.0 98.0 22.0
+    vertex 0.0 38.0 22.0
+  endloop
+endfacet
+facet normal -0.5144957554275267 0.8574929257125443 -0.0
+  outer loop
+    vertex 0.0 39.5 22.0
+    vertex 100.0 99.5 0.0
+    vertex 0.0 39.5 0.0
+  endloop
+endfacet
+facet normal -0.5144957554275267 0.8574929257125443 -0.0
+  outer loop
+    vertex 100.0 99.5 0.0
+    vertex 0.0 39.5 22.0
+    vertex 100.0 99.5 22.0
+  endloop
+endfacet
+endsolid Крышка ремня
