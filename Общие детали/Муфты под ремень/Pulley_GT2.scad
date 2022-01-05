@@ -19,7 +19,7 @@
 GT2_WM = tooth_spacing (2,0.254);
 // tuneable constants
 
-teeth = 28;			// Number of teeth, standard Mendel T5 belt = 8, gives Outside Diameter of 11.88mm
+teeth = 36;			// Number of teeth, standard Mendel T5 belt = 8, gives Outside Diameter of 11.88mm
 profile = 12;		// 1=MXL 2=40DP 3=XL 4=H 5=T2.5 6=T5 7=T10 8=AT5 9=HTD_3mm 10=HTD_5mm 11=HTD_8mm 12=GT2_2mm 13=GT2_3mm 14=GT2_5mm
 
 motor_shaft = 5.2;	// NEMA17 motor shaft exact diameter = 5
@@ -34,8 +34,8 @@ retainer_ht = 2;	// height of retainer flange over pulley, standard = 1.5
 idler = 1;			// Belt retainer below teeth, 0 = No, 1 = Yes
 idler_ht = 2;		// height of idler flange over pulley, standard = 1.5
 
-pulley_t_ht = 10;	// length of toothed part of pulley, standard = 12
-pulley_b_ht = 6;		// pulley base height, standard = 8. Set to same as idler_ht if you want an idler but no pulley.
+pulley_t_ht = 8;	// length of toothed part of pulley, standard = 12
+pulley_b_ht = 1;		// pulley base height, standard = 8. Set to same as idler_ht if you want an idler but no pulley.
 pulley_shaft_dia = motor_shaft;
 pulley_b_dia = 0;	// pulley base diameter, standard = 20; 0 for Auto
 no_of_nuts = 1;		// number of captive nuts required, standard = 1
@@ -116,7 +116,7 @@ module pulley( belt_type , pulley_OD , tooth_depth , tooth_width )
 		{
 			//base
 	
-			if ( pulley_b_ht < 2 ) { echo ("CAN'T DRAW PULLEY BASE, HEIGHT LESS THAN 2!!!"); } else {
+			if ( pulley_b_ht < 1 ) { echo ("CAN'T DRAW PULLEY BASE, HEIGHT LESS THAN 2!!!"); } else {
                 difference(){
                     cylinder(d=pulley_OD + idler_ht*2*idler,h=pulley_b_ht, $fn=teeth*4);
                     translate([0,0,0]) 

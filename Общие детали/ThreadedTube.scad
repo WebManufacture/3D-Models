@@ -1,8 +1,8 @@
-include <C:\_WM\3D\Threads.scad>;
+include <Threads.scad>;
 /* [main] */
 
 // The length of the auger
-height=100;
+height=10;
 
 // How big the outside of the auger will be
 outer_dia=60;
@@ -17,10 +17,10 @@ thread_thickness=10;
 thread_step=10;
 
 // How thick the auger paddles will be (useful for creating ACME threaded rods!)
-thread_count=4;
+thread_count=1;
 
 // How thick the auger paddles will be (useful for creating ACME threaded rods!)
-thread_form = "circle";
+thread_form = "rectangle";
 
 
 /* [hidden] */
@@ -43,9 +43,8 @@ module thread(diameter){
 }
 
 module tubeThreaded(){
-
-            thread(inner_dia);
-    }
+    thread(inner_dia);
+}
     
 module tubeThreadedModule(){
 	difference() {
