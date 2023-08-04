@@ -1,0 +1,198 @@
+solid П-Балка-15мм-Глубже
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 -9.999999999999996 14.999999999999995
+    vertex 0.0 -10.0 4.999999999999996
+    vertex 0.0 -14.999999999999995 14.999999999999998
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 -15.0 1.0574874309554614e-15
+    vertex 0.0 -10.0 4.999999999999996
+    vertex 0.0 0.0 0.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 -10.0 4.999999999999996
+    vertex 0.0 -15.0 1.0574874309554614e-15
+    vertex 0.0 -14.999999999999995 14.999999999999998
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 -10.0 4.999999999999996
+    vertex 0.0 -4.999999999999999 4.999999999999998
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 -4.999999999999999 4.999999999999998
+    vertex 0.0 -4.999999999999998 14.999999999999995
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 -4.999999999999998 14.999999999999995
+    vertex 0.0 1.0574874309554614e-15 15.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 220.0 -15.0 1.0574874309554614e-15
+    vertex 220.0 -10.0 4.999999999999996
+    vertex 220.0 -14.999999999999995 14.999999999999998
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 220.0 -10.0 4.999999999999996
+    vertex 220.0 -15.0 1.0574874309554614e-15
+    vertex 220.0 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 220.0 -10.0 4.999999999999996
+    vertex 220.0 0.0 0.0
+    vertex 220.0 -4.999999999999999 4.999999999999998
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 220.0 -4.999999999999999 4.999999999999998
+    vertex 220.0 0.0 0.0
+    vertex 220.0 -4.999999999999998 14.999999999999995
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 220.0 -4.999999999999998 14.999999999999995
+    vertex 220.0 0.0 0.0
+    vertex 220.0 1.0574874309554614e-15 15.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 220.0 -9.999999999999996 14.999999999999995
+    vertex 220.0 -14.999999999999995 14.999999999999998
+    vertex 220.0 -10.0 4.999999999999996
+  endloop
+endfacet
+facet normal 0.0 -1.0 6.938893903907227e-17
+  outer loop
+    vertex 220.0 -4.999999999999998 14.999999999999995
+    vertex 0.0 -4.999999999999999 4.999999999999998
+    vertex 220.0 -4.999999999999999 4.999999999999998
+  endloop
+endfacet
+facet normal 0.0 -1.0 6.938893903907227e-17
+  outer loop
+    vertex 0.0 -4.999999999999999 4.999999999999998
+    vertex 220.0 -4.999999999999998 14.999999999999995
+    vertex 0.0 -4.999999999999998 14.999999999999995
+  endloop
+endfacet
+facet normal 0.0 6.938893903907227e-17 1.0
+  outer loop
+    vertex 220.0 -10.0 4.999999999999996
+    vertex 0.0 -4.999999999999999 4.999999999999998
+    vertex 0.0 -10.0 4.999999999999996
+  endloop
+endfacet
+facet normal 0.0 6.938893903907227e-17 1.0
+  outer loop
+    vertex 0.0 -4.999999999999999 4.999999999999998
+    vertex 220.0 -10.0 4.999999999999996
+    vertex 220.0 -4.999999999999999 4.999999999999998
+  endloop
+endfacet
+facet normal 0.0 1.0 -6.938893903907227e-17
+  outer loop
+    vertex 0.0 -9.999999999999996 14.999999999999995
+    vertex 220.0 -10.0 4.999999999999996
+    vertex 0.0 -10.0 4.999999999999996
+  endloop
+endfacet
+facet normal 0.0 1.0 -6.938893903907227e-17
+  outer loop
+    vertex 220.0 -10.0 4.999999999999996
+    vertex 0.0 -9.999999999999996 14.999999999999995
+    vertex 220.0 -9.999999999999996 14.999999999999995
+  endloop
+endfacet
+facet normal 0.0 6.938893903907227e-17 1.0
+  outer loop
+    vertex 220.0 -14.999999999999995 14.999999999999998
+    vertex 0.0 -9.999999999999996 14.999999999999995
+    vertex 0.0 -14.999999999999995 14.999999999999998
+  endloop
+endfacet
+facet normal 0.0 6.938893903907227e-17 1.0
+  outer loop
+    vertex 0.0 -9.999999999999996 14.999999999999995
+    vertex 220.0 -14.999999999999995 14.999999999999998
+    vertex 220.0 -9.999999999999996 14.999999999999995
+  endloop
+endfacet
+facet normal 0.0 1.0 -6.938893903907227e-17
+  outer loop
+    vertex 0.0 1.0574874309554614e-15 15.0
+    vertex 220.0 0.0 0.0
+    vertex 0.0 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0 1.0 -6.938893903907227e-17
+  outer loop
+    vertex 220.0 0.0 0.0
+    vertex 0.0 1.0574874309554614e-15 15.0
+    vertex 220.0 1.0574874309554614e-15 15.0
+  endloop
+endfacet
+facet normal 0.0 -6.938893903907227e-17 -1.0
+  outer loop
+    vertex 220.0 0.0 0.0
+    vertex 0.0 -15.0 1.0574874309554614e-15
+    vertex 0.0 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0 -6.938893903907227e-17 -1.0
+  outer loop
+    vertex 0.0 -15.0 1.0574874309554614e-15
+    vertex 220.0 0.0 0.0
+    vertex 220.0 -15.0 1.0574874309554614e-15
+  endloop
+endfacet
+facet normal 0.0 6.938893903907227e-17 1.0
+  outer loop
+    vertex 220.0 -4.999999999999998 14.999999999999995
+    vertex 0.0 1.0574874309554614e-15 15.0
+    vertex 0.0 -4.999999999999998 14.999999999999995
+  endloop
+endfacet
+facet normal 0.0 6.938893903907227e-17 1.0
+  outer loop
+    vertex 0.0 1.0574874309554614e-15 15.0
+    vertex 220.0 -4.999999999999998 14.999999999999995
+    vertex 220.0 1.0574874309554614e-15 15.0
+  endloop
+endfacet
+facet normal 0.0 -1.0 6.938893903907227e-17
+  outer loop
+    vertex 220.0 -14.999999999999995 14.999999999999998
+    vertex 0.0 -15.0 1.0574874309554614e-15
+    vertex 220.0 -15.0 1.0574874309554614e-15
+  endloop
+endfacet
+facet normal 0.0 -1.0 6.938893903907227e-17
+  outer loop
+    vertex 0.0 -15.0 1.0574874309554614e-15
+    vertex 220.0 -14.999999999999995 14.999999999999998
+    vertex 0.0 -14.999999999999995 14.999999999999998
+  endloop
+endfacet
+endsolid П-Балка-15мм-Глубже
